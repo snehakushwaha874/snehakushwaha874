@@ -53,9 +53,42 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-</p>
+## 🚀 Projects Showcase
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="YOUR_PROJECT_LINK_1">
+        <img src="C:\Users\sneha\Downloads\India in focus.jpg"" alt="Volt AI" width="200"/><br/>
+        <b>Volt AI</b>
+      </a>
+      <p>LLM-based voice assistant with futuristic UI.</p>
+    </td>
+    <td align="center">
+      <a href="YOUR_PROJECT_LINK_2">
+        <img src="YOUR_IMAGE_LINK_2" alt="Data Analyser" width="200"/><br/>
+        <b>Data Analyser</b>
+      </a>
+      <p>Python-based dashboard for monthly data tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="YOUR_PROJECT_LINK_3">
+        <img src="YOUR_IMAGE_LINK_3" alt="Power BI Dashboard" width="200"/><br/>
+        <b>Power BI Dashboard</b>
+      </a>
+      <p>Interactive business intelligence dashboard in Power BI.</p>
+    </td>
+    <td align="center">
+      <a href="YOUR_PROJECT_LINK_4">
+        <img src="YOUR_IMAGE_LINK_4" alt="India In Focus" width="200"/><br/>
+        <b>India in Focus</b>
+      </a>
+      <p>Regional e-commerce project with a cultural theme.</p>
+    </td>
+  </tr>
+</table>
 
 
 <!--
