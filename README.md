@@ -65,7 +65,7 @@
       <p>LLM-based voice assistant with glowing UI & smart commands.</p>
     </td>
     <td align="center">
-      <a href="https://github.com/snehakushwaha874/data-analyser">
+      <a href="https://github.com/snehakushwaha874/DataAnalyzer">
         <img src="https://raw.githubusercontent.com/snehakushwaha874/snehakushwaha874/main/data/Data%20Analyser.png" alt="Data Analyser" width="200"/><br/>
         <b>Data Analyser</b>
       </a>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/snehakushwaha874/power-bi-project">
+      <a href="https://github.com/snehakushwaha874/PowerBI-Sales-Dashboard">
         <img src="https://raw.githubusercontent.com/snehakushwaha874/snehakushwaha874/main/data/power%20bi.png" alt="Power BI Dashboard" width="200"/><br/>
         <b>Power BI Dashboard</b>
       </a>
