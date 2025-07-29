@@ -58,37 +58,39 @@
 <table>
   <tr>
     <td align="center">
-      <a href="YOUR_PROJECT_LINK_1">
-        <img src="C:\Users\sneha\Downloads\India in focus.jpg"" alt="Volt AI" width="200"/><br/>
+      <a href="https://github.com/snehakushwaha874/voltai">
+        <img src="https://raw.githubusercontent.com/snehakushwaha874/snehakushwaha874/main/data/volt%20ai.png" alt="Volt AI" width="200"/><br/>
         <b>Volt AI</b>
       </a>
-      <p>LLM-based voice assistant with futuristic UI.</p>
+      <p>LLM-based voice assistant with glowing UI & smart commands.</p>
     </td>
     <td align="center">
-      <a href="YOUR_PROJECT_LINK_2">
-        <img src="YOUR_IMAGE_LINK_2" alt="Data Analyser" width="200"/><br/>
+      <a href="https://github.com/snehakushwaha874/data-analyser">
+        <img src="https://raw.githubusercontent.com/snehakushwaha874/snehakushwaha874/main/data/Data%20Analyser.png" alt="Data Analyser" width="200"/><br/>
         <b>Data Analyser</b>
       </a>
-      <p>Python-based dashboard for monthly data tracking.</p>
+      <p>Automated monthly report generator using Python and pandas.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="YOUR_PROJECT_LINK_3">
-        <img src="YOUR_IMAGE_LINK_3" alt="Power BI Dashboard" width="200"/><br/>
+      <a href="https://github.com/snehakushwaha874/power-bi-project">
+        <img src="https://raw.githubusercontent.com/snehakushwaha874/snehakushwaha874/main/data/power%20bi.png" alt="Power BI Dashboard" width="200"/><br/>
         <b>Power BI Dashboard</b>
       </a>
-      <p>Interactive business intelligence dashboard in Power BI.</p>
+      <p>Interactive sales and performance dashboard using Power BI.</p>
     </td>
     <td align="center">
-      <a href="YOUR_PROJECT_LINK_4">
-        <img src="YOUR_IMAGE_LINK_4" alt="India In Focus" width="200"/><br/>
+        <img src="https://raw.githubusercontent.com/snehakushwaha874/snehakushwaha874/main/data/India%20in%20focus.jpg" alt="India in Focus" width="200"/><br/>
         <b>India in Focus</b>
       </a>
-      <p>Regional e-commerce project with a cultural theme.</p>
+      <p>A visual story of Indian trends, culture, and insights in data.</p>
     </td>
   </tr>
 </table>
+
+
+
 
 
 <!--
